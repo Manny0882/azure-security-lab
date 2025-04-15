@@ -22,7 +22,7 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 
 ### 🌍 Virtual Machine Monitoring Map – Azure Workbook
 
-[Attack Map](attack-map.png)
+![Attack Map](attack-map.png)
 
 > *Demonstrates inbound and outbound traffic filtering configured for the `Doge-nsg`.*
 
