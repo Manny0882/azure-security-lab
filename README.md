@@ -24,18 +24,9 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 
 [Attack Map](attack-map.png)
 
-> *Shows a geolocation heatmap of attack attempts on the Doge VM using Azure Workbook analytics.*
-
----
-
-### 🔐 Network Security Group Rules (NSG)
-
-![NSG Rules](image.png)
-
 > *Demonstrates inbound and outbound traffic filtering configured for the `Doge-nsg`.*
 
 ---
-
 ## 🧠 Skills & Tools Used
 
 - **SIEM Monitoring** with Microsoft Sentinel  
