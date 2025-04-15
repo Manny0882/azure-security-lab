@@ -22,7 +22,7 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 
 ### 🌍 Virtual Machine Monitoring Map – Azure Workbook
 
-![Attack Map](attack-map.png)
+[Attack Map](attack-map.png)
 
 > *Shows a geolocation heatmap of attack attempts on the Doge VM using Azure Workbook analytics.*
 
