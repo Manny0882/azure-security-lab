@@ -27,6 +27,8 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 > *Demonstrates inbound and outbound traffic filtering configured for the `Doge-nsg`.*
 
 ---
+### 🧾 Azure Resources Overview
+
 ![Azure Resources](azure-resources.png)
 
 ## 🧠 Skills & Tools Used
