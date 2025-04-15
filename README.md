@@ -20,7 +20,7 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 
 ## 📸 Screenshots
 
-### 🔍 Virtual Machine Monitoring Map – Azure Workbook
+### 🌍 Virtual Machine Monitoring Map – Azure Workbook
 
 ![Attack Map](attack-map.png)
 
@@ -49,7 +49,7 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 ## 💬 TryHackMe & Learning Context
 
 This project was completed as part of my self-paced cybersecurity training through:
-- 🧠 **TryHackMe**: SOC Level 1 / Azure Fundamentals
+- 🧠 **TryHackMe**: SOC Level 1 / Azure Fundamentals  
 - 🎓 **WGU Cybersecurity Program**
 
 ---
