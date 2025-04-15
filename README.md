@@ -29,7 +29,7 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 ---
 ### 🧾 Azure Resources Overview
 
-![Azure Resources](azure-resources.png)
+![Azure Resources](azurresource2.png)
 
 ### 🔍 Azure Log Analytics Query View
 ![Azure Log Screenshot](azure-logs.png)
