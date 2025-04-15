@@ -14,8 +14,8 @@ This is a hands-on cybersecurity lab built using Microsoft Azure.
 - **Dashboard**: Custom Azure Workbook
 
 ## 📸 Screenshot
-![Azure Project Screenshot](./35f803b7-6d9d-48aa-b162-470c0d3025de.png)
-
+## 📸 Screenshot
+![Azure Lab Screenshot](image.png)
 ## 💡 Skills Used
 - Cloud Monitoring
 - Threat Detection
