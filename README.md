@@ -27,9 +27,10 @@ This project demonstrates a hands-on lab using **Microsoft Azure** to deploy, mo
 > *Demonstrates inbound and outbound traffic filtering configured for the `Doge-nsg`.*
 
 ---
-### 🧾 Azure Resources Overview
+### 🗂️ Resource Group Overview – US-Tariff_group
 
-![Azure Resources](azurresource2.png)
+![US-Tariff Resource Group](us-tariff-resources.png)
+
 
 ### 🔍 Azure Log Analytics Query View
 ![Azure Log Screenshot](azure-logs.png)
